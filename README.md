@@ -9,6 +9,9 @@ I built this repository to **quickly start and stop my DevNet/CML lab devices**.
 - Control the **order of devices** (External-Connection and BackBone first, then NXOS, Router1, Router2)  
 - Sleep between device operations to allow proper boot/shutdown  
 
+<img width="1334" height="773" alt="image" src="https://github.com/user-attachments/assets/43fe701a-3cc4-4d78-9d35-f7df059f61d5" />
+
+
 ---
 
 ## Features
